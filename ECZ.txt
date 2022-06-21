@@ -1,0 +1,44 @@
+﻿# Солнечная система
+Star 5 Yellow 1.98892E30 0 0 0 0
+
+#Марс
+Planet 3 AliceBlue 6.419E23 -285.94E9 0 0 -24.13E3
+
+# Юпитер
+Planet 9 LightSteelBlue 1.899E27 -785.41E9 0 0 -13.07E3
+
+# Сатурн
+Planet 12 CornflowerBlue 5.685E26 -1480.4E9 0 0 -9.67E3
+
+# Уран
+Planet 4 RoyalBlue 8.685E25 -2871.0E9 0 0 -6.84E3
+
+# Нептун
+Planet 7 MediumBlue 1.024E26 -4498.3E9 0 0 -5.48E3
+
+#Своя Планета
+Planet 8 DarkBlue 1.024E26 -6498.3E9 0 0 -3.48E3
+
+# Солнечная система_2
+Star2 5 Yellow 1.98892E30 0 0 0 0
+
+#Марс2
+Planet2 3 Thistle 6.419E23 0 285.94E9 24.13E3 0
+
+# Юпитер2
+Planet2 9 Plum 1.899E27 0 785.41E9 13.07E3 0
+
+# Сатурн2
+Planet2 12 Orchid 5.685E26 0 1480.4E9 9.67E3 0
+
+# Уран2
+Planet2 4 MediumOrchid 8.685E25 0 2871.0E9 6.84E3 0
+
+# Нептун2
+Planet2 7 DarkViolet 1.024E26 0 4498.3E9 5.48E3 0
+
+#Своя Планета2
+Planet2 8 Indigo 1.024E26 0 6498.3E9 3.48E3 0
+
+
+
